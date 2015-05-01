@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">StartUpQuiz</string>
+
+    <string name="hello_description">Welcome to "YOUR FATED START UP" -- the all seeing, all knowing quiz that will unveil your /// PERSONAL /// GUARANTEED /// pathway to making tons of $$$$$ MONEY $$$$$ CASH $$$$$ DOLLARS !!!</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_first_question">FirstQuestion</string>
+    <string name="title_activity_second_question">SecondQuestion</string>
+    <string name="title_activity_third_question">ThirdQuestion</string>
+    <string name="title_activity_answer">Answer</string>
+
+    <string name="first_question">1. If you were in a burning, crashing bus hurtling toward a box of kittens at the bottom of a bottomless ravine, who would you want to be your partner-in-rescue?</string>
+    <string name="first_option_one">A wizard named Paul.</string>
+    <string name="first_option_two">A boot-shaped fairy named Lux.</string>
+    <string name="first_option_three">An astronaut named Rollo.</string>
+
+    <string name="second_question">2. You\'re lost on a desert island. You have just enough of a cell signal to order ONE and ONE ITEM ONLY from YourFatedStartUp.Amazon.com: To heal your malnourising body, what sustenance would you conjure from the webs?</string>
+    <string name="second_option_one">Rocking Cupcakes - $9.99 - available for two-day shipping</string>
+    <string name="second_option_two">Mystery Berries - $34.49 - back-ordered (FDA not approved)</string>
+    <string name="second_option_three">Frozen Lemonade - $0.01 - contains high-fructose corn syrup, not for children</string>
+
+    <string name="third_question">3. Location, location, location...</string>
+    <string name="third_option_one">To the stars!</string>
+    <string name="third_option_two">Into the woods!</string>
+    <string name="third_option_three">Somewhere illogical and highly unlikely!</string>
+
+
+    <string name="answer_time"> $$$ Get ready to be the CEO of...    </string>
+    <string name="answer_one">An Outer Space Lemonade Stand</string>
+    <string name="answer_two">The Alliance for Miniature Forest Dwellers</string>
+    <string name="answer_three">A Cupcake Partnership for Shovelling Wizards inside of a Snow Globe</string>
+
+
+</resources>
